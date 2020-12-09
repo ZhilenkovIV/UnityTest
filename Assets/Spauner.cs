@@ -12,7 +12,6 @@ public class Spauner : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         currentTime = period;
-
     }
 
     IEnumerator liveBox(Vector3 spawnPosition, Vector3 speed, float distance)
