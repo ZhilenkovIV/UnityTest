@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ClickData : MonoBehaviour {
     public delegate void ClickNotify(int counter);
-    public ClickNotify notify;
+    public event ClickNotify notify;
 
     [SerializeField]
     private int clickCounter = 0;
