@@ -8,14 +8,21 @@ public class ClickData : MonoBehaviour {
 
     [SerializeField]
     private int clickCounter = 0;
-    
-    public void incCounter() {
-        clickCounter++;
-        if (notify != null)
-        {
-            notify(clickCounter);
+
+    public int ClickCounter {
+        get {
+            return clickCounter;
+        }
+
+        set {
+            clickCounter = value;
+            if (notify != null)
+            {
+                notify(clickCounter);
+            }
         }
     }
+    
     
     
 }

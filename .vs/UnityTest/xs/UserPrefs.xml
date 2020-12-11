@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{03FB2056-251D-5424-624C-AD3996B1095C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ClickController.cs">
+    <Files>
+      <File FileName="Assets/ClickData.cs" Line="3" Column="19" />
+      <File FileName="Assets/ClickController.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ClickController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7133950-821c-4b77-9e49-236faa1483aa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
